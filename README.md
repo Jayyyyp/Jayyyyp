@@ -75,3 +75,14 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 노션 링크 : (https://www.notion.so/Git-Flow-e813b9a4a62943d58b090b0abfc6d91d)
 </div>
 </details>
+
+---
+
+<details>
+<summary>JULY</summary>
+<div markdown="1">
+	16th - JPA API 복습(https://github.com/Jayyyyp/Spring_blog_real)<br>
+	17th - JPA 페이징 처리 복습 및 노션정리(https://www.notion.so/JPA-Java-Persistence-API-15747b96c59c452dbc617cb1c93912d3)<br>
+	18th - 스프링 시큐리티 복습 및 노션정리(https://www.notion.so/Spring-Security-4235730cbc7c4ea7844fda64f6c15847)<br>
+</div>
+</details>
