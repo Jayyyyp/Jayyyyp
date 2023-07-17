@@ -16,7 +16,7 @@
 <p>
 	Name : 박재현(Jay Park)<br>
     Email : pjae9726@gmail.com<br>
-    Tech Blog : [Coding Diary](http://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04)
+    Tech Blog : [Coding Diary](https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04)
 </p>
 <p align="left">
 </p>
