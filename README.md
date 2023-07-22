@@ -84,7 +84,10 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	16th - JPA API 복습(https://github.com/Jayyyyp/Spring_blog_real)<br>
 	17th - JPA 페이징 처리 복습 및 노션정리(https://www.notion.so/JPA-Java-Persistence-API-15747b96c59c452dbc617cb1c93912d3)<br>
 	18th - 스프링 시큐리티 복습 및 노션정리(https://www.notion.so/Spring-Security-4235730cbc7c4ea7844fda64f6c15847)<br>
-	19th - 객체지향 책 복습
-	20th - 스프링 시큐리티 기초 완료(회원가입, 로그인, 로그아웃)
+	19th - 객체지향 책 복습<br>
+	20th - 스프링 시큐리티 기초 완료(회원가입, 로그인, 로그아웃)<br>
+	21st - JWT 로그인 설정 및 refresh토큰 공부(https://www.notion.so/JWT-refresh-token-e2dbf32c3a5d45cd932450321746872f)<br>
+	22nd - 웹 크롤링 공부()<br>
+	23rd - <br>
 </div>
 </details>
