@@ -88,6 +88,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	20th - 스프링 시큐리티 기초 완료(회원가입, 로그인, 로그아웃)<br>
 	21st - JWT 로그인 설정 및 refresh토큰 공부(https://www.notion.so/JWT-refresh-token-e2dbf32c3a5d45cd932450321746872f)<br>
 	22nd - 리액트 기초 공부(https://www.notion.so/React-5d3f7850eaec4ca697c49035fd6a8f25)<br>
-	23rd - <br>
+	23rd - 스프링부트3책 공부<br>
 </div>
 </details>
