@@ -94,5 +94,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	26th - 팀 프로젝트 기획 문서 제작 및 정리<br>
 	27th - 리액트 이벤트 바인딩 공부1<br>
 	28th - 리액트 이벤트 바인딩 공부2<br>
+ 29th - api 기초 공부 및 검색 api 개념 정리<br>
 </div>
 </details>
