@@ -95,5 +95,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	27th - 리액트 이벤트 바인딩 공부1<br>
 	28th - 리액트 이벤트 바인딩 공부2<br>
 	29th - api 기초 공부 및 검색 api 개념 정리(https://www.notion.so/API-b65c763132bd49ec82e4d44c10850de2)<br>
+	30th - naver 검색 api 응용해보기(https://www.notion.so/API-fb6ba0556a2642eba26fb854524269f2)<br>
 </div>
 </details>
