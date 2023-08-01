@@ -99,3 +99,10 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	31st - naver cloud 기초(https://www.notion.so/Cloud-4637c5490bb74f309f2bb53f9c38afd7)<br>
 </div>
 </details>
+
+<details>
+<summary>August</summary>
+<div markdown="1">
+	1st - <br>
+</div>
+</details>
