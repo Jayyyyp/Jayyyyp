@@ -103,6 +103,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 <details>
 <summary>August</summary>
 <div markdown="1">
-	1st - <br>
+	1st - 11번가 open api 활용해보기<br>
 </div>
 </details>
