@@ -104,5 +104,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 <summary>August</summary>
 <div markdown="1">
 	1st - 11번가 open api 활용해보기<br>
+	2nd - 멘토링 질문 정리 및 공부<br>
 </div>
 </details>
