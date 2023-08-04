@@ -107,5 +107,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	2nd - 멘토링 질문 정리 및 공부<br>
 	3rd - Jira 툴 노션 정리 및 애자일 방법론 공부(https://www.notion.so/jayyyyp/Jira-8633442a8834465087e6dd800393a6e4)<br>
 	      11번가 jsoup 크롤링 실패(https://github.com/Jayyyyp/KKINI_crawling)<br>
+	4th - 11번가 jsoup 크롤링 성공(https://github.com/Jayyyyp/KKINI_crawling)<br>
+	      Selenium 크롤링 시작()<br>
 </div>
 </details>
