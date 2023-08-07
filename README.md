@@ -112,6 +112,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	5th - 11번가 Selenium 크롤링 실패(https://github.com/Jayyyyp/KKINI_crawling)<br>
 	크롤링 데이터 정제 및 API 데이터와 매핑 방법 공부<br>
 	6th - 11번가 Selenium 크롤링 성공(https://github.com/Jayyyyp/KKINI_crawling)<br>
-	7th - 11번가 Selenium 크롤링(페이지별로 데이터 뽑기) 실패<br>
+	7th - 11번가 Selenium 크롤링_페이지별로 데이터 뽑기 실패<br>
 </div>
 </details>
