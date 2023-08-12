@@ -114,5 +114,11 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	6th - 11번가 Selenium 크롤링 성공(https://github.com/Jayyyyp/KKINI_crawling)<br>
 	7th - 11번가 Selenium 크롤링_페이지별로 데이터 뽑기 실패<br>
 	8th - 검색 기능 기초 공부<br>
+	9th - 검색 기능 기초 구현 1 <br>
+	10th - 검색 기능 기초 구현 2 <br>
+	11st - 검색 기능 기초 구현 성공(https://github.com/Jayyyyp/KKINI_Search)<br>
+	12nd - 검색 기능 기초 구현 정리(https://www.notion.so/jayyyyp/fb30d7df25484d279293836d25d9302f),<br>
+	       스프링부트 JPA책 공부<br>
+	13rd - 
 </div>
 </details>
