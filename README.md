@@ -118,7 +118,9 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	10th - 검색 기능 기초 구현 2 <br>
 	11st - 검색 기능 기초 구현 성공(https://github.com/Jayyyyp/KKINI_Search)<br>
 	12nd - 검색 기능 기초 구현 정리(https://www.notion.so/jayyyyp/fb30d7df25484d279293836d25d9302f),<br>
-	       스프링부트 JPA책 공부<br>
-	13rd - 
+	       스프링부트 JPA책 공부, enum클래스란?(https://www.notion.so/jayyyyp/enum-c71488bdf4084796a279d0a9f933e02d)<br>
+	13rd - 스프링부트 JPA책 실습(https://github.com/Jayyyyp/JPA_study)<br>
+		스프링부트 JPA책 정리_93p(https://www.notion.so/jayyyyp/with-JPA-9a098c9b14084d0ea7388d94592be274)<br>
+	14th - 
 </div>
 </details>
