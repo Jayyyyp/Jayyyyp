@@ -124,7 +124,9 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	14th - 검색 기능 추가(카테고리 검색 가능, 완성된 단어를 치지않아도 2글자 이상 검색하면 자동으로 트래킹)<br>
 		평점 CRUD 기능 추가를 위한 웹서핑<br>
 	15th - 평점 CRUD 기능 중 CR부분 구현완료<br>
-		U와 D 부분은 실패(사용자 쿠키 저장이 안되는 상황)<br>
-	16th - 
+		수정과 삭제 부분은 실패(사용자 쿠키 저장이 안되는 상황)<br>
+	16th - 평점 수정과 삭제 성공(사용자 id 더미데이터)<br>
+	17th - 평점 단일사진 업로드 성공<br>
+	18th - 
 </div>
 </details>
