@@ -118,15 +118,17 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	10th - 검색 기능 기초 구현 2 <br>
 	11st - 검색 기능 기초 구현 성공(https://github.com/Jayyyyp/KKINI_Search)<br>
 	12nd - 검색 기능 기초 구현 정리(https://www.notion.so/jayyyyp/fb30d7df25484d279293836d25d9302f),<br>
-	       스프링부트 JPA책 공부, enum클래스란?(https://www.notion.so/jayyyyp/enum-c71488bdf4084796a279d0a9f933e02d)<br>
+	       스프링부트 JPA책 공부<br>
 	13rd - 스프링부트 JPA책 실습(https://github.com/Jayyyyp/JPA_study)<br>
 	       스프링부트 JPA책 정리_93p(https://www.notion.so/jayyyyp/with-JPA-9a098c9b14084d0ea7388d94592be274)<br>
 	14th - 검색 기능 추가(카테고리 검색 가능, 완성된 단어를 치지않아도 2글자 이상 검색하면 자동으로 트래킹)<br>
 		평점 CRUD 기능 추가를 위한 웹서핑<br>
 	15th - 평점 CRUD 기능 중 CR부분 구현완료<br>
 		수정과 삭제 부분은 실패(사용자 쿠키 저장이 안되는 상황)<br>
-	16th - 평점 수정과 삭제 성공(사용자 id 더미데이터)<br>
-	17th - 평점 단일사진 업로드 성공<br>
-	18th - 
+	16th - 평점 수정과 삭제 성공(사용자 id를 더미데이터로 쓰기)<br>
+	17th - 평점 사진 업로드 최종 성공(https://github.com/Jayyyyp/KKINI_Search)<br>
+	18th - enum클래스란?(https://www.notion.so/jayyyyp/enum-c71488bdf4084796a279d0a9f933e02d)<br>
+	19th - 프로젝트 연습 jsp -> 리액트 변환 시키기<br>
+	20th - 
 </div>
 </details>
