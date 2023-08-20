@@ -129,6 +129,8 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	17th - 평점 사진 업로드 최종 성공(https://github.com/Jayyyyp/KKINI_Search)<br>
 	18th - enum클래스란?(https://www.notion.so/jayyyyp/enum-c71488bdf4084796a279d0a9f933e02d)<br>
 	19th - 프로젝트 연습 jsp -> 리액트 변환 시키기<br>
-	20th - 
+	20th - Refactoring 방법 고찰(https://www.notion.so/jayyyyp/Refactoring-ea1055154d1a45748f2ece01801aadff)<br>
+		프로젝트 연습 코딩에 적용하기<br>
+	21st - 
 </div>
 </details>
