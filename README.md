@@ -131,6 +131,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	19th - 프로젝트 연습 jsp -> 리액트 변환 시키기<br>
 	20th - Refactoring 방법 고찰(https://www.notion.so/jayyyyp/Refactoring-ea1055154d1a45748f2ece01801aadff)<br>
 		프로젝트 연습 코딩에 적용하기<br>
-	21st - 
+	21st - Item, Category refactoring 완료<br>
+	22nd - 프로젝트 repository에서 검색 기능 구현<br>
 </div>
 </details>
