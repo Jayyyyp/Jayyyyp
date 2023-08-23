@@ -133,5 +133,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		프로젝트 연습 코딩에 적용하기<br>
 	21st - Item, Category refactoring 완료<br>
 	22nd - 프로젝트 repository에서 검색 기능 구현<br>
+	23rd - Back-end와 Front-end 연동(리액트)<br>
+	24th - 
 </div>
 </details>
