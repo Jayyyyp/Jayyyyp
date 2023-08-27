@@ -135,6 +135,9 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	22nd - 프로젝트 repository에서 검색 기능 구현<br>
 	23rd - Back-end와 Front-end 연동(리액트)<br>
 	24th - 프로젝트 코드 수정(Category 엔터티 Product로 흠수시키기)<br>
-	25th - 
+	25th - 프로젝트 코드 리팩토링<br>
+	26th - 프로젝트 코드 부가검색기능 추가(자동완성, 띄어쓰기 무시)<br>
+	27th - 프로젝트 코드 리팩토링 및 검색 기능 구현 완료<br>
+	28th - 
 </div>
 </details>
