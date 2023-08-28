@@ -138,6 +138,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	25th - 프로젝트 코드 리팩토링<br>
 	26th - 프로젝트 코드 부가검색기능 추가(자동완성, 띄어쓰기 무시)<br>
 	27th - 프로젝트 코드 리팩토링 및 검색 기능 구현 완료<br>
-	28th - 
+	28th - 검색 기능 추가 리팩토링 및 공부<br>
+	29th - 
 </div>
 </details>
