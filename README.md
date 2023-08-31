@@ -141,6 +141,6 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	28th - 검색 기능 추가 리팩토링 및 공부<br>
 	29th - 프로젝트 카테고리 분류 기능 구현<br>
 	30th - 프로젝트 필터 기능 구현<br>
-	31st
+	31st - 프로젝트 필터 기능 테스트 및 리액트 적용<br>
 </div>
 </details>
