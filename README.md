@@ -79,7 +79,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 ---
 
 <details>
-<summary>JULY</summary>
+<summary>July</summary>
 <div markdown="1">
 	16th - JPA API 복습(https://github.com/Jayyyyp/Spring_blog_real)<br>
 	17th - JPA 페이징 처리 복습 및 노션정리(https://www.notion.so/JPA-Java-Persistence-API-15747b96c59c452dbc617cb1c93912d3)<br>
@@ -143,4 +143,11 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	30th - 프로젝트 필터 기능 구현<br>
 	31st - 프로젝트 필터 기능 테스트 및 리액트 적용<br>
 </div>
+</details>
+<details>
+<summary>September</summary>
+	<div markdown="1">
+		1st - 프로젝트 필터 기능 리팩토링<br>
+		2nd - 
+	</div>
 </details>
