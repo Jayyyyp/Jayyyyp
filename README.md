@@ -148,6 +148,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 <summary>September</summary>
 	<div markdown="1">
 		1st - 프로젝트 필터 기능 리팩토링<br>
-		2nd - 
+		2nd - 프로젝트 필터 기능 리팩토링 및 REST API 공부<br>
+		3rd - 
 	</div>
 </details>
