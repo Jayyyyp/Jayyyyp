@@ -149,8 +149,11 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 	<div markdown="1">
 		1st - 프로젝트 필터 기능 리팩토링<br>
 		2nd - 프로젝트 필터 기능 리팩토링 및 REST API 공부<br>
-		3rd - 프로젝트 필터 기능 쿼리문 간소 고찰
+		3rd - 프로젝트 필터 기능 쿼리문 간소화 고찰
 		4th - 프로젝트 필터 기능 쿼리문 추가
-		5th - 
+		5th - 프로젝트 필터 기능 리팩토링
+		6th - 프로젝트 필터 기능 테스트코드 수정
+		7th - 프로젝트 리액트 컴포넌트/컨트롤러 분리
+		8th - 
 	</div>
 </details>
