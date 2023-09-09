@@ -153,8 +153,9 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		4th - 프로젝트 필터 기능 쿼리문 추가
 		5th - 프로젝트 필터 기능 리팩토링
 		6th - 프로젝트 필터 기능 테스트코드 수정
-		7th - 프로젝트 리액트 컴포넌트/컨트롤러 분리
-		8th - 프로젝트 리액트 컴포넌트/컨트롤러 추가 공부(Hook)<br>
-		9th - 
+		7th - 프로젝트 리액트 컴포넌트/컨테이너 분리
+		8th - 프로젝트 리액트 컴포넌트/컨테이너 추가 공부(Hook)<br>
+		9th - 프로젝트 리액트 컴포넌트/컨테이너/API Client/페이지 분리 <br>
+		10th - 
 	</div>
 </details>
