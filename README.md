@@ -156,6 +156,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		7th - 프로젝트 리액트 컴포넌트/컨테이너 분리
 		8th - 프로젝트 리액트 컴포넌트/컨테이너 추가 공부(Hook)<br>
 		9th - 프로젝트 리액트 컴포넌트/컨테이너/API Client/페이지 분리 <br>
-		10th - 
+		10th - 프로젝트 필터(backend) 버그 수정 -> NullPointerException <br>
+		11st - 
 	</div>
 </details>
