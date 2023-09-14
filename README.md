@@ -157,6 +157,9 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		8th - 프로젝트 리액트 컴포넌트/컨테이너 추가 공부(Hook)<br>
 		9th - 프로젝트 리액트 컴포넌트/컨테이너/API Client/페이지 분리 <br>
 		10th - 프로젝트 필터(backend) 버그 수정 -> NullPointerException <br>
-		11st - 
+		11st - 프로젝트 예외 처리 대신 Null로 처리 -> 상품이 없을때, 예외처리되지 않게<br>
+		12nd - 프로젝트 상품 상세페이지 구현<br>
+		13rd - 프로젝트 이용약관 및 개인정보처리 부분 작성<br>
+		14th - 
 	</div>
 </details>
