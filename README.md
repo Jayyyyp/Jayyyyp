@@ -160,6 +160,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		11st - 프로젝트 예외 처리 대신 Null로 처리 -> 상품이 없을때, 예외처리되지 않게<br>
 		12nd - 프로젝트 상품 상세페이지 구현<br>
 		13rd - 프로젝트 이용약관 및 개인정보처리 부분 작성<br>
-		14th - 
+		14th - 검색 기능 리팩토링(파라미터를 DTO로 만들어서 간소화)<br>
+		15th - 
 	</div>
 </details>
