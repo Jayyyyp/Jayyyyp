@@ -161,6 +161,8 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		12nd - 프로젝트 상품 상세페이지 구현<br>
 		13rd - 프로젝트 이용약관 및 개인정보처리 부분 작성<br>
 		14th - 검색 기능 리팩토링(파라미터를 DTO로 만들어서 간소화)<br>
-		15th - 
+		15th - 프로젝트 문제해결 정리<br>
+		16th - 프로젝트 Redis 적용 방법 고찰<br>
+		17th - 
 	</div>
 </details>
