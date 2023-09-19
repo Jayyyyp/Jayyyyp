@@ -163,6 +163,9 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		14th - 검색 기능 리팩토링(파라미터를 DTO로 만들어서 간소화)<br>
 		15th - 프로젝트 문제해결 정리<br>
 		16th - 프로젝트 Redis 적용 방법 고찰<br>
-		17th - 
+		17th - 프로젝트 평점 평균 시각화 구현<br>
+		18th - 프로젝트 사용자별 조회수 카운팅 구현<br>
+		19th - 프로젝트 끼니 Pick 구현 알고리즘 고찰(Redis 적용하면 좋을듯)<br>
+		20th - 
 	</div>
 </details>
