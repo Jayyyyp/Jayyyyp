@@ -166,6 +166,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		17th - 프로젝트 평점 평균 시각화 구현<br>
 		18th - 프로젝트 사용자별 조회수 카운팅 구현<br>
 		19th - 프로젝트 끼니 Pick 구현 알고리즘 고찰(Redis 적용하면 좋을듯)<br>
-		20th - 
+		20th - 프로젝트 끼니 Pick 구현 (알고리즘 적용)(Redis 적용 시급해보임)<br>
+		21st - 
 	</div>
 </details>
