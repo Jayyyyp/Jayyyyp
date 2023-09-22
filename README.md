@@ -168,6 +168,7 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		19th - 프로젝트 끼니 Pick 구현 알고리즘 고찰(Redis 적용하면 좋을듯)<br>
 		20th - 프로젝트 끼니 Pick 구현 (알고리즘 적용)(Redis 적용 시급해보임)<br>
 		21st - 프로젝트 끼니 pick 구현을 위한 테이블 생성(ProductFilter)<br>
-		22nd - 
+		22nd - 프로젝트 끼니 pick 프론트 구현<br>
+		23rd - 
 	</div>
 </details>
