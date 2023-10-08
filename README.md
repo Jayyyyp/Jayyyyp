@@ -169,6 +169,24 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
 		20th - 프로젝트 끼니 Pick 구현 (알고리즘 적용)(Redis 적용 시급해보임)<br>
 		21st - 프로젝트 끼니 pick 구현을 위한 테이블 생성(ProductFilter)<br>
 		22nd - 프로젝트 끼니 pick 프론트 구현<br>
-		23rd - 
+		23rd ~ 27th - 프로젝트 끼니 발표 빛 배포 준비<br>
+		28th - <br>
+		29th - <br>
+  		30th - <br>
+		
+	</div>
+</details>
+<details>
+<summary>October</summary>
+	<div markdown="1">
+		1st -<br>
+		2nd -<br>
+		3rd -<br>
+		4th -<br>
+  		5th -<br>
+    		6th - Notion정리한 것들 tistory로 옮기기<br>
+        	7th - <br>
+	 	8th - 블로그 정리 및 복습<br>
+		
 	</div>
 </details>
