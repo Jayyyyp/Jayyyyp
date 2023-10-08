@@ -187,6 +187,5 @@ Tech Blog : (https://www.notion.so/Coding-Diary-f58aa2dd0fee4523bb0cb76dbefc1e04
     		6th - Notion정리한 것들 tistory로 옮기기<br>
         	7th - <br>
 	 	8th - 블로그 정리 및 복습<br>
-		
 	</div>
 </details>
