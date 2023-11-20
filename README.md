@@ -17,7 +17,7 @@
 <p>
 Name : 박재현(Jay Park)<br>
 Email : pjae9726@gmail.com<br>
-portfolio : (https://www.notion.so/jayyyyp/e2925e4970c9472b8b07043b7e2f30b1)<br>
+portfolio : (https://jayyyyp.github.io/web_portfolio/)<br>
 Tech Blog : (https://dev-won-jayyyy.tistory.com/)
 </p>
 <p align="center">
